@@ -9,18 +9,18 @@ nav {
     transform: translate(-50%);
     bottom: 2rem;
     display: flex;
-    gap: .8rem;
+    gap: 0.8rem;
     border-radius: 3rem;
     backdrop-filter: blur(15px);
 }
 
 nav a {
     background: transparent;
-    padding: .8rem;
+    padding: 0.8rem;
     border-radius: 50%;
     display: flex;
     color: var(--color-light);
-    font-size: 1.rem;
+    font-size: 1.2 rem;
 
 }
 
